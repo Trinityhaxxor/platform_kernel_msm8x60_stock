@@ -1,0 +1,1 @@
+make CROSS_COMPILE=~/cortex/bin/arm-gnueabi- LINUXDIR=~/Trinity/XperiaS_MSM8660_2.1BSource LINUXVER=3.4.20
